@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "681046089607",
+    "firebase_url": "https://lambox-2107.firebaseio.com",
+    "project_id": "lambox-2107",
+    "storage_bucket": "lambox-2107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681046089607:android:1c5398642d3fa1e67f3d22",
+        "android_client_info": {
+          "package_name": "com.leomaiajr.lambox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681046089607-4gihb5hbce6mvg2tjbiq13p2t4h0v4n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX4qZ5PX8FlcppacA9PRtja94kvbmV3Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681046089607-4gihb5hbce6mvg2tjbiq13p2t4h0v4n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
