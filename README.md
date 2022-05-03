@@ -1,16 +1,31 @@
-# lambox
+# LamBox
 
-A new Flutter project.
+LamBox is a project aimed at helping the visually impaired with medical treatment.
 
-## Getting Started
+It connects 3 important sides, the visually impaired, doctors and pharmacies. Each of these sides has a mobile application that allows them to communicate with each other.
 
-This project is a starting point for a Flutter application.
+- [LamBox Client](https://github.com/LeomaiaJr/LamBox-Client) - A mobile application that allows the visually impaired to schedule appointments with doctors and find the nearest pharmacies, using voice recognition.
+- [LamBox Doc](https://github.com/LeomaiaJr/LamBox-Doc) - A mobile application that allows doctors to manage their appointments, and check the status of their patients.
+- [LamBox Pharmacy](https://github.com/LeomaiaJr/LamBox-Pharm) - A mobile application that allows pharmacies to manage their stock and patients.
 
-A few resources to get you started if this is your first Flutter project:
+All apps are developed using [Flutter](https://flutter.dev/) and [Firebase](https://firebase.google.com/) for the backend.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Project developed during **PROJETE – Technological Projects Fair of Francisco Moreira da Costa Technical School of Electronics**, during the second year (2020) of the System Development Technical Course.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to use
+
+**Step 1:**
+
+Download or clone this repo by using the link below:
+
+```
+https://github.com/LeomaiaJr/LamBox-Client
+```
+
+**Step 2:**
+
+Go to project root and execute the following command in console to get the required dependencies:
+
+```
+flutter pub get
+```
